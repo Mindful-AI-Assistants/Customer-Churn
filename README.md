@@ -9,6 +9,10 @@ For this machine learning algorithm, we used the Decision Tree. This approach ai
 # Database Used 📊
 For this project, we used the database called [WA_Fn-UseC_-Telco-Customer-Churn](https://www.kaggle.com/datasets/palashfendarkar/wa-fnusec-telcocustomerchurn) avaliable on [Kaggle](https://www.kaggle.com).
 
+# Code and Report
+- [Code of the customer churn](https://github.com/Mindful-AI-Assistants/Customer-Churn/Code/No_Churn.ipynb)
+- [Report of the customer churn](https://github.com/Mindful-AI-Assistants/Customer-Churn/Report/Relatório.docx)
+
 # Contributors 👨‍💻
 - [André Livingston Messina](https://github.com/devdebdeb)
 - [César Augusto Sibila](https://github.com/Czar210)
