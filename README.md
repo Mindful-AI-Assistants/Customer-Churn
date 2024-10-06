@@ -16,3 +16,14 @@ For this project, we used the database called [WA_Fn-UseC_-Telco-Customer-Churn]
 
 # Reference
 - WA_Fn-UseC_-Telco-Customer-Churn. Kaggle, 2018. Disponível em: https://www.kaggle.com/datasets/palashfendarkar/wa-fnusec-telcocustomerchurn. Acesso em: 17 de set. de 2024.
+- KOTLER, Philip; KELLER, Kevin Lane. *Administração de Marketing*. 14. ed. São Paulo: Pearson Prentice Hall, 2012.
+- RICHARDSON, Alan. *Retention Strategies for Telecom Customers*. Telecommunications Policy, v. 34, n. 11, p. 666-679, 2010.
+- TUKEY, John W. *Exploratory Data Analysis*. Reading: Addison-Wesley, 1977.
+- AGARWAL, Ruchi; AGGARWAL, Ajay. *Data Analytics: Principles, Tools and Practices*. 1. ed. Nova York: Apress, 2019.
+- LITTLE, Roderick J. A.; RUBIN, Donald B. *Statistical Analysis with Missing Data*. 2. ed. Nova York: John Wiley & Sons, 2019.
+- ALLISON, Paul D. *Handling Missing Data by Maximum Likelihood*. Sociological Methods & Research, v. 28, n. 3, p. 301-309, 2000.
+- GÉRON, Aurélien. *Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems*. 2. ed. Sebastopol: O'Reilly Media, 2019.
+- WITTEN, Ian H.; FRANK, Eibe; HALL, Mark A. *Data Mining: Practical Machine Learning Tools and Techniques*. 4. ed. Burlington: Morgan Kaufmann, 2016.
+- QUINLAN, J. R. *C4.5: Programs for Machine Learning*. San Mateo: Morgan Kaufmann, 1993.
+- BREIMAN, Leo et al. *Classification and Regression Trees*. Belmont: Wadsworth International Group, 1984.
+- Classificação: ROC e AUC. Google Machine Learn. Disponível em: https://developers.google.com/machine-learning/crash-course/classification/roc-and-auc?hl=pt-br. Acesso em: 20 de set. de 2024.
