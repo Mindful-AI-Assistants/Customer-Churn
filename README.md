@@ -30,4 +30,10 @@ For this project, we used the database called [WA_Fn-UseC_-Telco-Customer-Churn]
 - WITTEN, Ian H.; FRANK, Eibe; HALL, Mark A. *Data Mining: Practical Machine Learning Tools and Techniques*. 4. ed. Burlington: Morgan Kaufmann, 2016.
 - QUINLAN, J. R. *C4.5: Programs for Machine Learning*. San Mateo: Morgan Kaufmann, 1993.
 - BREIMAN, Leo et al. *Classification and Regression Trees*. Belmont: Wadsworth International Group, 1984.
-- Classificação: ROC e AUC. Google Machine Learn. Disponível em: https://developers.google.com/machine-learning/crash-course/classification/roc-and-auc?hl=pt-br. Acesso em: 20 de set. de 2024.
+Sure! Here's the translation to English:
+- Classification: ROC and AUC. Google Machine Learning. Available at: https://developers.google.com/machine-learning/crash-course/classification/roc-and-auc?hl=en. Accessed on: September 20, 2024.
+
+  #
+
+  ##### <p align="center">Copyright 2024 Mindful-AI-Assistants. Code released under the  [MIT license.]( https://github.com/Mindful-AI-Assistants/.github/blob/ad6948fdec771e022d49cd96f99024fcc7f1106a/LICENSE)
+
